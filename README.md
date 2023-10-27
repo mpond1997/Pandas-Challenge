@@ -1,1 +1,3 @@
 # Pandas-Challenge
+Based off of our final data frames for PyCity schools we can conclude a few differences. Overall the larger schools struggle to find balance with both math and reading, the same could be said for schools classified under the school type 'District'. Charter, small and medium schools tend to have much more success when it comes to overall passing. The only larger school that had success in % Overall Passing happened to be Wilson High School, which, is under the classification of 'Charter School'.
+We can conclude from this data that Charter School is the greatest place for success in BOTH reading and math.
